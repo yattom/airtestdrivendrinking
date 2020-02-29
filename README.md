@@ -9,3 +9,4 @@
 - retrospective.txt - 終了間際に、参加者に書いてもらうふりかえりのテキストファイル。前回のものが残っており、参考にしてもよい
 - .replit - repl.itの動作をカスタマイズするファイル。 https://docs.repl.it/repls/dot-replit 参照
 
+本リポジトリの内容はCC BY 4.0です。 https://creativecommons.org/licenses/by/4.0/deed.ja (ソフトウェアではないのでクリエイティブコモンズライセンスを採用しています)
